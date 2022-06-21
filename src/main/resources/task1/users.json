@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"firstName": "Alexander",
+		"lastName": "Skorb",
+		"email": "admin25@admin.com",
+		"password": "",
+		"userRole": "ADMIN"
+	},
+	{
+		"id": 2,
+		"firstName": "Dmitriy",
+		"lastName": "Ivanov",
+		"email": "ivanov@mail.com",
+		"password": "7Q2q0Nt0uY7NgfF1usiyNQ\u003d\u003d",
+		"userRole": "USER"
+	},
+	{
+		"id": 3,
+		"firstName": "Andrey",
+		"lastName": "Sidorov",
+		"email": "sidorov@mail.com",
+		"password": "",
+		"userRole": "ADMIN"
+	}
+]
